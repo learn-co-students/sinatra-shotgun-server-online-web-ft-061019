@@ -8,6 +8,7 @@ _Note: `shotgun` only works on Linux and Mac OS X. If you're not using a Linux V
 
 ## Objectives
 
+
 1. Explain how using `rackup` to start a Sinatra application will only read the code once at boot 
 2. Describe how Shotgun allows for automatic code reloading
 3. Install Shotgun and require it in an application's `Gemfile` 
